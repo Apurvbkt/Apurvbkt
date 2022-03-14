@@ -7,10 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 align="center">Hi 👋, I'm Apurva Bhakat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvbkt&label=Profile%20views&color=0e75b6&style=flat" alt="apurvbkt" /> </p>
+
+    <h1 align="center">Hi 👋, I'm Apurva Bhakat</h1>
+<h3 align="center">A passionate frontend developer from India. A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+</h3>
+
+<br>
+
 
 - 🌱 I’m currently learning **Data Structures Algorithms Mern stack and Typescript**
 
@@ -23,6 +27,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YOV-3abNjdl4XJ2WPC7U1Aujz9xkKOZR/view?usp=sharing](https://drive.google.com/file/d/1YOV-3abNjdl4XJ2WPC7U1Aujz9xkKOZR/view?usp=sharing)
 
 - ⚡ Fun fact **I am a good Badminton Player**
+
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
