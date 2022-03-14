@@ -4,9 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <!-- <title>Document</title> -->
 </head>
 <body>
+    <div>
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvbkt&label=Profile%20views&color=0e75b6&style=flat" alt="apurvbkt" /> </p>
+
+    </div>
     <h1 align="center">Hi 👋, I'm Apurva Bhakat</h1>
 <h3 align="center">A passionate frontend developer from India. A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
@@ -26,7 +30,6 @@
 
 - ⚡ Fun fact **I am a good Badminton Player**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvbkt&label=Profile%20views&color=0e75b6&style=flat" alt="apurvbkt" /> </p>
 
 
 <!-- <h3 align="left">Connect with me:</h3>
