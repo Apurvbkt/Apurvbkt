@@ -27,7 +27,8 @@
 
 - 📫 How to reach me **apurva.bkt@gmail.com**
 
-- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1nZjK8Iaf-gyAXmWaXnLhkAst-MPHbkWa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nZjK8Iaf-gyAXmWaXnLhkAst-MPHbkWa/view?usp=sharing)
+
 
 - ⚡ Fun fact **I am a good sports person**
     <hr/>
