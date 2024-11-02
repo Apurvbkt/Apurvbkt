@@ -90,7 +90,8 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Apurvbkt"><img alt="Apurvbkt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Apurvbkt&custom_title=apurva's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Apurvbkt&bg_color=000000&color=ffffff&line=5c9b4b&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+   <a href="https://github.com/Apurvbkt">[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Apurvbkt&bg_color=000000&color=ffffff&line=5c9b4b&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
   <br/>
   
   
